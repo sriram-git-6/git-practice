@@ -21,3 +21,5 @@ feature-2 commit-4
 # feature-3
 
 feature-3 commit-1
+
+feature-3 commit-2
